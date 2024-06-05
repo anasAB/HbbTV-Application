@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Sample Video 1",
+        "thumbnail": "https://test-videos.co.uk/user/pages/images/jellyfish.jpg",
+        "videoUrl": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_10MB.mp4"
+    },
+    {
+        "title": "Sample Video 2",
+        "thumbnail": "https://test-videos.co.uk/user/pages/images/big_buck_bunny.jpg",
+        "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_5MB.mp4"
+    },
+    {
+        "title": "By Blender Foundation",
+        "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--A7h9REgj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title": "By Google",
+        "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzI-nSn---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+        "title": "Sample Video 5",
+        "thumbnail": "https://test-videos.co.uk/user/pages/images/big_buck_bunny.jpg",
+        "videoUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ra7DZ-uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+    },
+    {
+        "title": "Sample Video 6",
+        "thumbnail": "https://test-videos.co.uk/user/pages/images/big_buck_bunny.jpg",
+        "videoUrl": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_5MB.mp4"
+    }
+]
